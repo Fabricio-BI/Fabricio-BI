@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! Soy Fabricio Coque 🚀
 
-<!--
-**Fabricio-BI/Fabricio-BI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ingeniero Comercial | Especialista en Control Financiero | Data Analyst
 
-Here are some ideas to get you started:
+Ingeniero enfocado en la automatización de ciclos contables y control financiero. Mi objetivo es transformar datos en inteligencia que genere valor estratégico para la toma de decisiones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Stack Tecnológico
+
+- **Lenguajes:** Python (Pandas, NumPy), SQL.
+- **Análisis y BI:** Power BI, Excel Avanzado.
+- **Automatización:** Git, Scripts para conciliaciones bancarias.
+- **Especialidad:** Ciclo contable, Finanzas, Auditoría de datos.
+
+---
+
+## 📈 Impacto Profesional
+
+### Automatización y Finanzas
+- **Optimización de Procesos:** Reducción de tiempos en cierres contables mediante herramientas de BI.
+- **Dashboarding:** Creación de reportes ejecutivos para control de gestión y presupuestos.
