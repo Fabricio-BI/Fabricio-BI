@@ -1,8 +1,8 @@
 # ¡Hola! Soy Fabricio Coque 🚀
 
-### Ingeniero Comercial | Especialista en Control Financiero | Data Analyst
+### Finanzas, Automatización & BI
 
-Ingeniero enfocado en la automatización de ciclos contables y control financiero. Mi objetivo es transformar datos en inteligencia que genere valor estratégico para la toma de decisiones.
+Analista de datos enfocado en la automatización de ciclos contables y control financiero. Mi objetivo es transformar datos en inteligencia que genere valor estratégico para la toma de decisiones.
 
 ---
 
