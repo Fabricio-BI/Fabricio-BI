@@ -1,4 +1,4 @@
-# ¡Hola! Soy Fabricio Coque 
+# ¡Hola! 
 **Finanzas | Automatización | Business Intelligence**
 
 Me dedico a desarrollar soluciones que eliminan la carga operativa manual en departamentos contables y financieros. Mi enfoque combina el rigor de la contabilidad con la potencia del análisis de datos y la automatización mediante código para transformar procesos tradicionales en flujos de trabajo eficientes.
