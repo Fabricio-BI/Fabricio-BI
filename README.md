@@ -2,16 +2,22 @@
 
 ### Finanzas, Automatización & BI
 
-Analista de datos enfocado en la automatización de ciclos contables y control financiero. Mi objetivo es transformar datos en inteligencia que genere valor estratégico para la toma de decisiones.
+Me dedico a desarrollar soluciones que eliminan la carga operativa manual en departamentos contables y financieros. Mi enfoque combina el rigor de la contabilidad con la potencia del análisis de datos y la automatización mediante código.
+
+## Lo que hago:
+
+-Automatización de Procesos Financieros: Desarrollo de scripts en Python para conciliaciones bancarias masivas utilizando lógica exacta y Fuzzy Matching.
+-Análisis de Datos (BI): Creación de dashboards ejecutivos en Power BI enfocados en KPIs críticos y análisis de variaciones (FP&A).
+-Optimización Contable: Transformación y limpieza de datos (ETL) desde sistemas ERP para reportes listos para auditoría y gerencias .
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
 - **Lenguajes:** Python (Pandas, NumPy), SQL.
-- **Análisis y BI:** Power BI, Excel Avanzado.
+- **Análisis y BI:** Power BI(Dax,Power Query ) , Excel Avanzado.
 - **Automatización:** Git, Scripts para conciliaciones bancarias.
-- **Especialidad:** Ciclo contable, Finanzas, Auditoría de datos.
+- **Especialidad:** Ciclo contable, Finanzas,Bussines Inteligence ,  Auditoría de datos.
 
 ---
 
@@ -19,4 +25,4 @@ Analista de datos enfocado en la automatización de ciclos contables y control f
 
 ### Automatización y Finanzas
 - **Optimización de Procesos:** Reducción de tiempos en cierres contables mediante herramientas de BI.
-- **Dashboarding:** Creación de reportes ejecutivos para control de gestión y presupuestos.
+- **Dashboard y visualziacion :** Creación de reportes ejecutivos para control de gestión y presupuestos.
