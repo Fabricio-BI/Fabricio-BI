@@ -9,7 +9,7 @@ Me dedico a desarrollar soluciones que eliminan la carga operativa manual en dep
 * **Análisis de Datos (BI):** Creación de dashboards ejecutivos en Power BI enfocados en KPIs críticos y análisis de variaciones (FP&A).
 * **Optimización Contable:** Transformación y limpieza de datos (ETL) desde sistemas ERP para reportes listos para auditoría y alta gerencia.
 
-###Stack Tecnológico:
+### Stack Tecnológico:
 
 * **Lenguajes:** Python (Pandas, NumPy, FuzzyWuzzy), SQL.
 * **Análisis y BI:** Power BI (DAX, Power Query), Excel Avanzado.
