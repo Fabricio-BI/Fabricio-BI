@@ -11,7 +11,7 @@ Ayudo a equipos de contabilidad y finanzas a automatizar su reportería y elimin
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-### Contacto
 
-* **LinkedIn:** [https://www.linkedin.com/in/fabriciocoque/]
-* **Correo:** [fabriciocoque@outlook.com]
+
+
+* **Mail:** [fabriciocoque@outlook.com]
