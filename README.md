@@ -4,7 +4,7 @@ Ayudo a equipos de contabilidad y finanzas a automatizar su reportería y elimin
 
 
 
-### 🛠️ Tecnologías que utilizo
+### Skilss
 * **Lenguajes & Bases de Datos:** Python (Pandas, NumPy, FuzzyWuzzy), SQL Server.
 * **Business Intelligence:** Power BI (DAX, Power Query), Excel Avanzado.
 * **Áreas de Enfoque:** Automatización de Reportería Financiera, Conciliaciones Bancarias Masivas, ETL de Sistemas ERP y Auditoría de Datos.
@@ -12,7 +12,7 @@ Ayudo a equipos de contabilidad y finanzas a automatizar su reportería y elimin
 
 
 
-## 📫 Contacto
+## Contacto
 
 * **LinkedIn:** [https://www.linkedin.com/in/fabriciocoque/]
 * **Correo:** [fabriciocoque@outlook.com]
