@@ -1,6 +1,7 @@
 ### ¡Hola! 👋
 
-Ayudo a equipos de contabilidad y finanzas a automatizar su reportería y eliminar el trabajo manual repetitivo. Utilizo Python para integrar datos, generar indicadores clave y construir reportes ejecutivos que agilizan el análisis y la toma de decisiones. Me enfoco en crear flujos de trabajo automatizados y confiables que ahorran tiempo y reducen errores en las operaciones financieras.
+Ayudo a equipos de contabilidad y finanzas a automatizar su reportería y eliminar el trabajo manual repetitivo. Utilizo Python para integrar datos, automatizar procesos ETL y construir reportes ejecutivos que agilizan el análisis y la toma de decisiones. Me enfoco en crear flujos de trabajo automatizados que priorizan la optimización del tiempo y la reducción de errores.
+
 
 
 
