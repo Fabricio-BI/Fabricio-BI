@@ -9,7 +9,7 @@ Ayudo a equipos de contabilidad y finanzas a automatizar su reportería y elimin
 * **Business Intelligence:** Power BI (DAX, Power Query), Excel Avanzado.
 * **Áreas de Enfoque:** Automatización de Reportería Financiera, Conciliaciones Bancarias Masivas, ETL de Sistemas ERP y Auditoría de Datos.
 
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ## Contacto
