@@ -4,17 +4,12 @@ Ayudo a equipos de contabilidad y finanzas a automatizar su reportería y elimin
 
 
 
-### Skilss
-* **Lenguajes & Bases de Datos:** Python (Pandas, NumPy, FuzzyWuzzy), SQL Server.
-* **Business Intelligence:** Power BI (DAX, Power Query), Excel Avanzado.
-* **Áreas de Enfoque:** Automatización de Reportería Financiera, Conciliaciones Bancarias Masivas, ETL de Sistemas ERP y Auditoría de Datos.
-
-### 🛠️ Tecnologías
+### Tecnologías
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
