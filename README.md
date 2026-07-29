@@ -1,12 +1,15 @@
-¡Hola! 👋
-Desarrollo soluciones de reporteria automatizada utilizando Python para integrar datos, generar indicadores y construir reportes ejecutivos que optimicen el análisis y la toma de decisiones en finanzas y contabilidad.
+# ¡Hola! 👋
 
- Lo Que Hago
+Ayudo a equipos de contabilidad y finanzas a automatizar su reportería y eliminar el trabajo manual repetitivo. Utilizo Python para integrar datos, generar indicadores clave y construir reportes ejecutivos que agilizan el análisis y la toma de decisiones. Me enfoco en crear flujos de trabajo automatizados y confiables que ahorran tiempo y reducen errores en las operaciones financieras.
 
-* **Integración y Transformación de Datos (ETL):** Automatización de extracción, limpieza y consolidación de datos desde sistemas ERP u otras fuentes contables con Python y SQL.
-* **Conciliaciones y Controles Masivos:** Desarrollo de scripts con lógica exacta y coincidencia difusa (*Fuzzy Matching*) para conciliaciones bancarias y auditoría de información.
-* **Reportería Ejecutiva:** Generación automatizada de reportes e indicadores clave (KPIs) diseñados para acelerar cierres contables y análisis financieros.
+---
 
+### 🛠️ Tecnologías que utilizo
+* **Lenguajes & Bases de Datos:** Python (Pandas, NumPy, FuzzyWuzzy), SQL Server.
+* **Business Intelligence:** Power BI (DAX, Power Query), Excel Avanzado.
+* **Áreas de Enfoque:** Automatización de Reportería Financiera, Conciliaciones Bancarias Masivas, ETL de Sistemas ERP y Auditoría de Datos.
+
+---
 
 
 
