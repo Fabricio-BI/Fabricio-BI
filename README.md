@@ -13,5 +13,3 @@ Ayudo a equipos de contabilidad y finanzas a automatizar su reportería y elimin
 
 
 
-
-* **Mail:** [fabriciocoque@outlook.com]
