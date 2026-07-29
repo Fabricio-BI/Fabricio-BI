@@ -1,5 +1,5 @@
 ¡Hola! 👋
-* Desarrollo soluciones de reporteria automatizada utilizando Python para integrar datos, generar indicadores y construir reportes ejecutivos que optimicen el análisis y la toma de decisiones en finanzas y contabilidad.
+Desarrollo soluciones de reporteria automatizada utilizando Python para integrar datos, generar indicadores y construir reportes ejecutivos que optimicen el análisis y la toma de decisiones en finanzas y contabilidad.
 
  Lo Que Hago
 
